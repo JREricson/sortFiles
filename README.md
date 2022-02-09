@@ -1,6 +1,6 @@
 # sortFiles
 
-### description
+### Description
 A simple script I wrote to organize printed pdfs into folders by date and year.
 
 ### Language/concepts
